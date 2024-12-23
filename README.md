@@ -1,7 +1,7 @@
 # CS330
-#How do I approach designing software?
+# How do I approach designing software?
 I approach designing software by working on the simpliest part of the project and understanding the code before adding new code.  The new design skills that I learned was to make simple changes and run the program.  Make another change and run the program again asking myself what changed.  Going back and forth from the original code to the new code and run it again.  Changing variables from negative to positive and running the program again making note of the changes in the output.  
-#How do I approach developing programs?
+# How do I approach developing programs?
 I approach developing programs by creating one simple object.  With each function, I would apply code to this one object to understand what the program is doing before adding new objects, color, texture, or lighting.  This way you can reuse code to create the full effect desired.  The key is to start with one object and add in increments while understanding the changes to the object with each new function.
-#How can computer science help me in reaching my goals?
+# How can computer science help me in reaching my goals?
 Computational graphics and visualizations gave me new knowledge and skills that can be applied in my future educational and professional goals.  Applying texture and light to an object or scence will be used as a basis to build on new creative projects such as renderings, architectural drawings, or gaming objects/characters.  These techiques are basis for creating animation characters or substitutes objects for action films.  The possibilities are endless. 
